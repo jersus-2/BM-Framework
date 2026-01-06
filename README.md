@@ -11,7 +11,7 @@ bm::enl is \n
 bm::mc is for morse code to letter
 # shee / bm::stf ::shee 
 .find() finds stuff
-.open() opens a file(not so litterly
+.open() opens a file(not so litterly)
 .write() writes a file
 # pro
 pro::inout is well in and out so both(<< and >>)
